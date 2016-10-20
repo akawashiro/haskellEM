@@ -1,0 +1,37 @@
+Configuring hmatrix-0.17.0.2...
+Building hmatrix-0.17.0.2...
+Preprocessing library hmatrix-0.17.0.2...
+[ 1 of 28] Compiling Internal.Vector  ( src/Internal/Vector.hs, dist/dist-sandbox-9c88b601/build/Internal/Vector.o )
+[ 2 of 28] Compiling Internal.Devel   ( src/Internal/Devel.hs, dist/dist-sandbox-9c88b601/build/Internal/Devel.o )
+[ 3 of 28] Compiling Internal.Vectorized ( src/Internal/Vectorized.hs, dist/dist-sandbox-9c88b601/build/Internal/Vectorized.o )
+[ 4 of 28] Compiling Internal.Matrix  ( src/Internal/Matrix.hs, dist/dist-sandbox-9c88b601/build/Internal/Matrix.o )
+[ 5 of 28] Compiling Internal.Conversion ( src/Internal/Conversion.hs, dist/dist-sandbox-9c88b601/build/Internal/Conversion.o )
+[ 6 of 28] Compiling Internal.Foreign ( src/Internal/Foreign.hs, dist/dist-sandbox-9c88b601/build/Internal/Foreign.o )
+[ 7 of 28] Compiling Internal.ST      ( src/Internal/ST.hs, dist/dist-sandbox-9c88b601/build/Internal/ST.o )
+[ 8 of 28] Compiling Internal.Element ( src/Internal/Element.hs, dist/dist-sandbox-9c88b601/build/Internal/Element.o )
+[ 9 of 28] Compiling Internal.IO      ( src/Internal/IO.hs, dist/dist-sandbox-9c88b601/build/Internal/IO.o )
+[10 of 28] Compiling Internal.LAPACK  ( src/Internal/LAPACK.hs, dist/dist-sandbox-9c88b601/build/Internal/LAPACK.o )
+[11 of 28] Compiling Internal.Numeric ( src/Internal/Numeric.hs, dist/dist-sandbox-9c88b601/build/Internal/Numeric.o )
+[12 of 28] Compiling Internal.Sparse  ( src/Internal/Sparse.hs, dist/dist-sandbox-9c88b601/build/Internal/Sparse.o )
+[13 of 28] Compiling Numeric.LinearAlgebra.Devel ( src/Numeric/LinearAlgebra/Devel.hs, dist/dist-sandbox-9c88b601/build/Numeric/LinearAlgebra/Devel.o )
+[14 of 28] Compiling Internal.Algorithms ( src/Internal/Algorithms.hs, dist/dist-sandbox-9c88b601/build/Internal/Algorithms.o )
+[15 of 28] Compiling Internal.Container ( src/Internal/Container.hs, dist/dist-sandbox-9c88b601/build/Internal/Container.o )
+[16 of 28] Compiling Internal.Random  ( src/Internal/Random.hs, dist/dist-sandbox-9c88b601/build/Internal/Random.o )
+[17 of 28] Compiling Internal.Convolution ( src/Internal/Convolution.hs, dist/dist-sandbox-9c88b601/build/Internal/Convolution.o )
+[18 of 28] Compiling Internal.Chain   ( src/Internal/Chain.hs, dist/dist-sandbox-9c88b601/build/Internal/Chain.o )
+[19 of 28] Compiling Numeric.Vector   ( src/Numeric/Vector.hs, dist/dist-sandbox-9c88b601/build/Numeric/Vector.o )
+[20 of 28] Compiling Internal.CG      ( src/Internal/CG.hs, dist/dist-sandbox-9c88b601/build/Internal/CG.o )
+[21 of 28] Compiling Numeric.Matrix   ( src/Numeric/Matrix.hs, dist/dist-sandbox-9c88b601/build/Numeric/Matrix.o )
+[22 of 28] Compiling Internal.Util    ( src/Internal/Util.hs, dist/dist-sandbox-9c88b601/build/Internal/Util.o )
+[23 of 28] Compiling Internal.Modular ( src/Internal/Modular.hs, dist/dist-sandbox-9c88b601/build/Internal/Modular.o )
+[24 of 28] Compiling Numeric.LinearAlgebra.Data ( src/Numeric/LinearAlgebra/Data.hs, dist/dist-sandbox-9c88b601/build/Numeric/LinearAlgebra/Data.o )
+[25 of 28] Compiling Numeric.LinearAlgebra ( src/Numeric/LinearAlgebra.hs, dist/dist-sandbox-9c88b601/build/Numeric/LinearAlgebra.o )
+[26 of 28] Compiling Numeric.LinearAlgebra.HMatrix ( src/Numeric/LinearAlgebra/HMatrix.hs, dist/dist-sandbox-9c88b601/build/Numeric/LinearAlgebra/HMatrix.o )
+[27 of 28] Compiling Internal.Static  ( src/Internal/Static.hs, dist/dist-sandbox-9c88b601/build/Internal/Static.o )
+[28 of 28] Compiling Numeric.LinearAlgebra.Static ( src/Numeric/LinearAlgebra/Static.hs, dist/dist-sandbox-9c88b601/build/Numeric/LinearAlgebra/Static.o )
+In-place registering hmatrix-0.17.0.2...
+Creating package registration file:
+/tmp/pkgConf-hmatrix-0.17.010252023621350490027.2
+Installing library in
+/home/akira/haskell-EM/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hmatrix-0.17.0.2-GQliIjv5TeT8WZtz0a1ezm
+Registering hmatrix-0.17.0.2...

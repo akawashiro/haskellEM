@@ -1,0 +1,57 @@
+
+package: haskell-EM-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.6.0
+dependencies: hmatrix-0.17.0.2 base-4.8.2.0
+install-outcome: DependencyFailed hmatrix-0.17.0.2
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hmatrix-0.17.0.2
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.6.0
+flags: -openblas
+dependencies: vector-0.11.0.0 storable-complex-0.2.2 split-0.2.2
+              random-1.1 deepseq-1.4.1.1 bytestring-0.10.6.0 binary-0.7.5.0
+              base-4.8.2.0 array-0.5.1.0
+install-outcome: ConfigureFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: storable-complex-0.2.2
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.6.0
+flags: instanceinbase
+dependencies: base-4.8.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: haskell-EM-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.6.0
+dependencies: hmatrix-0.17.0.2 base-4.8.2.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hmatrix-0.17.0.2
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.6.0
+flags: -openblas
+dependencies: vector-0.11.0.0 storable-complex-0.2.2 split-0.2.2
+              random-1.1 deepseq-1.4.1.1 bytestring-0.10.6.0 binary-0.7.5.0
+              base-4.8.2.0 array-0.5.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
